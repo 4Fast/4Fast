@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4Fast
 - 👀 I’m interested in Laravel&Vue
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently developing with Laravel
 - 📫 How to reach me Fast#1612
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/308087335873019905)](https://discord.com/users/308087335873019905)
